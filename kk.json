@@ -43,11 +43,11 @@
       "ext": "./lib/菜狗.js"
     },
     {
-      "key": "drpy_js_优酷",
+      "key": "drpy_js_youku",
       "name": "官源 | 优酷[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "ext": "./lib/youko.js"
     },
     {
       "key": "drpy_js_百忙无果",
