@@ -4,42 +4,42 @@
   "sites": [
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "官源 | 腾讯[js]",
+      "name": "腾讯视频",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
+      "ext": "./lib/腾讯.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "官源 | 爱奇艺[js]",
+      "name": "爱奇艺",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "ext": "./lib/爱奇艺.js"
     },
     {
       "key": "drpy_js_菜狗",
-      "name": "官源 | 搜狗[js]",
+      "name": "搜狗视频",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/菜狗.js"
+      "ext": "./lib/搜狗.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "官源 | 优酷[js]",
+      "name": "优酷视频",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/优酷.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "官源 | 芒果[js]",
+      "name": "芒果TV",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "ext": "./lib/芒果.js"
     },
       {
       "key": "巴士",
-      "name": "巴士动漫",
+      "name": "动漫巴士",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -58,7 +58,7 @@
     },
     {
       "key": "drpy_js_360影视",
-      "name": "官源 | 360[js]",
+      "name": "360影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视.js"
