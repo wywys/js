@@ -2,25 +2,6 @@
   "spider": "./j.jar",
   "wallpaper": "http://tool.teyonds.com/api",
   "sites": [
-     {
-      "key": "巴士",
-      "name": "巴士动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "玩偶哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$"
-    },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯[js]",
@@ -55,6 +36,25 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/百忙无果.js"
+    },
+      {
+      "key": "巴士",
+      "name": "巴士动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "玩偶哥哥",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$"
     },
     {
       "key": "drpy_js_360影视",
