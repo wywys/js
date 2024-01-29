@@ -66,6 +66,11 @@
   ],
   "parses": [
     {
+      "name": "切换线路试试",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    }, 
+    {
       "name": "777",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
