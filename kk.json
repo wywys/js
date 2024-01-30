@@ -1,6 +1,7 @@
 {
   "spider": "./j.jar",
   "wallpaper": "http://tool.teyonds.com/api",
+  "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
   "sites": [
     {
       "key": "drpy_js_腾云驾雾",
@@ -88,7 +89,7 @@
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "推荐3",
+      "name": "线路3",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     }
