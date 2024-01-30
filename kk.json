@@ -31,6 +31,13 @@
       "ext": "./lib/优酷.js"
     },
     {
+      "key": "网飞影视",
+      "name": "网飞影视",
+      "type": 3,
+      "api": "./JS/drpy.min.js",
+      "ext": "./JS/网飞TV.js"
+    },
+    {
       "key": "drpy_js_百忙无果",
       "name": "芒果TV",
       "type": 3,
