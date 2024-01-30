@@ -34,8 +34,8 @@
       "key": "网飞影视",
       "name": "网飞影视",
       "type": 3,
-      "api": "./JS/drpy.min.js",
-      "ext": "./JS/网飞TV.js"
+      "api": "./lib/drpy.min.js",
+      "ext": "./lib/网飞TV.js"
     },
     {
       "key": "drpy_js_百忙无果",
