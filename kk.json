@@ -1,7 +1,7 @@
 {
   "spider": "./j.jar",
-  "wallpaper": "http://tool.teyonds.com/api",
-  "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
+  //"wallpaper": "http://tool.teyonds.com/api",
+  //"warningText": "荷城茶秀接口完全免费，切勿付费购买！",
   "sites": [
     {
       "key": "drpy_js_腾云驾雾",
