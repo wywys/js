@@ -197,4 +197,4 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚
 
-星空卫视,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8
