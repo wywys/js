@@ -198,4 +198,4 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 春晚
 
 星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8
-...,https://v16m-default.akamaized.net/d9bbba2d2a46837e4cdefc1b5af058ca/65bccaf8/video/tos/alisg/tos-alisg-v-0051c001-sg/owRYGG6fmyi5SoAzAPB8uTijuYq3wAzE60amEB/?a=0&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1166&bt=583&bti=cmd5ZGgxZGZiZmIrY2E6&cs=0&ds=6&ft=.cwOVInz7ThJKl4mXq8Zmo&mime_type=video_mp4&qs=13&rc=M3J4NG05cjY5cDMzODYzNEBpM3J4NG05cjY5cDMzODYzNEBxcGVxMmRjZ3JgLS1kMC1zYSNxcGVxMmRjZ3JgLS1kMC1zcw%3D%3D&l=202402020435017E2B6A58085CC9439A2B&btag=e00068000
+...,https://c3.monidai.com/ppvod/D5C6096D5FB73D43032821E156F5E99D.m3u8
