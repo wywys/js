@@ -1,0 +1,254 @@
+{
+  "spider": "./j.jar",
+  "wallpaper": "http://tool.teyonds.com/api",
+  //"warningText": "荷城茶秀接口完全免费，切勿付费购买！",
+  "sites": [
+     {
+      "key": "csp_DouDou",
+      "name": "👀点击主页切换💘么么哒",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "drpy_js_TVB云播",
+      "name": "TVB云播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/TVB云播.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "腾讯视频",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾讯.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "爱奇艺",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/爱奇艺.js"
+    },
+    {
+      "key": "drpy_js_菜狗",
+      "name": "搜狗视频",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/搜狗.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷视频",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "芒果TV",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/芒果.js"
+    },
+    {
+      "key":"drpy_js_动漫岛",
+      "name":"动漫岛",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/动漫岛.js"
+    },
+    {
+      "key":"drpy_js_囧次元",
+      "name":"囧次元",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/囧次元.js"
+    },
+    {
+      "key": "巴士",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "阿里云盘|扫码可看",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "360影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/360影视.js"
+    },
+    {
+      "key": "csp_Aid",
+      "name": "急救指南",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "jar": "./lib/急救指南包.jar;md5;510FA1663F7067BD4D40DE06097202BF"
+    }
+
+  ],
+  "parses": [
+    {
+      "name": "切换线路试试",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    }, 
+    {
+      "name": "线路1",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "线路2",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "线路3",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "线路4",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "playerType": 1,
+      "url": "aHR0cHM6Ly9naXRlZS5jb20vd3l3eXMvanMvcmF3L21hc3Rlci9saXZlLnR4dA==",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ]
+}
