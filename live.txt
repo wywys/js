@@ -198,4 +198,4 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 春晚
 
 星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8
-...,https://c3.monidai.com/ppvod/D5C6096D5FB73D43032821E156F5E99D.m3u8
+...,http://39.135.36.151:18890/000000001000/1000000001000021973/1.m3u8
